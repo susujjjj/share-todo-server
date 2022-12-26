@@ -1,6 +1,10 @@
 
 # sharedtodoapp server
 
+
+- npm i 
+- npm start
+
 ## Front
 
 : react.js, javascript, CSS, socket.io
